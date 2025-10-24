@@ -1,3 +1,17 @@
+**DEPRECATED**: This repository has been archived and integrated into the main RasQberry-Two repository.
+ 
+**New Location**: All 3D model files are now maintained in the [3D-model branch](https://github.com/JanLahmann/RasQberry-Two/tree/3D-model) of the RasQberry-Two repository.
+ 
+**What this means**:
+- This repository is now read-only and will not receive updates
+- All future development will occur in the 3D-model branch
+- Full commit history and attribution has been preserved
+
+**Please update your links and bookmarks** to point to: https://github.com/JanLahmann/RasQberry-Two/tree/3D-model
+
+---
+
+
 # RasQberry-Two-3Dmodel
 3D model of IBM Quantum System Two, to build a functional model of IBM Quantum System Two aka "the RasQberry project".
 
